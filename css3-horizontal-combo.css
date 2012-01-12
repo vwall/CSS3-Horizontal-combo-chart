@@ -38,7 +38,7 @@
   color: #fff;
   -webkit-transform: rotate(-90deg);
   -moz-transform: rotate(-90deg);
-  float: left;
+  display: inline-block;
   font-size: 10px;
   margin-top: 10px;
   margin-left: -26px;
@@ -46,12 +46,11 @@
 }
 .fill-amount {
   background: #D9D9D9;
+  display: inline-block;
   min-width: 35px;
-  margin-top: 9px;
+  margin: 9px 0 0 -20px;
   border-radius: 8px;
   font-size: 11px;
-  float: left;
-  margin-left: -20px;
   padding: 2px;
   text-align: center;
   border-bottom: 1px solid #fff;

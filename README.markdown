@@ -3,12 +3,8 @@ A simple horizontal combo chart, serving the same purpose as a pie chart, except
 	<div class="horizontal-combo-container">
 		<div class="horizontal-combo-mortice">
 			<div class="combo-fill" style="width: 35%">
-				<div class="combo-label">
-					Campaigns
-				</div>
-				<div class="fill-amount">
-					35%
-				</div>
+				<span class="combo-label">Campaigns</span>
+				<span class="fill-amount">35%</span>
 			</div>
 		</div>
 	</div>
